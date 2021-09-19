@@ -1,0 +1,19 @@
+{
+  "name": "test-yt",
+  "version": "1.0.0",
+  "description": "Tentativa de montar um App com a API de TMDB",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API;",
+    "TMDB"
+  ],
+  "author": "Ivo - TechnoSaurus",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
